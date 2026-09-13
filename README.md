@@ -1,7 +1,16 @@
-## Hi there 👋, I'm Dipak Magadum 
-# 💫 About Me:
-🛰️ I'm currently working on<br><br>ComplyRadar — a MERN-based SaaS compliance management platform for Indian MSME manufacturers, with a responsive React 19 + Vite + Tailwind CSS frontend<br><br>🧑‍🤝‍🧑 I'm looking to collaborate on<br><br>Full-stack MERN projects, open-source tools, or anything involving React, Node.js & MongoDB<br><br>🍅 I'm looking for help with<br><br>Backend architecture, scaling SaaS apps, and system design best practices<br><br>🌱 I'm currently learning<br><br>Backend infra tools like Redis, BullMQ, and Docker for scalable SaaS systems<br><br>💬 Ask me about<br><br>MERN stack development, deploying full-stack apps (React/Vercel + Node/Render + MongoDB Atlas), or building real-world SaaS products<br><br>⚡ Fun fact<br><br>I built and deployed CineVerse, a full-stack movie streaming platform, from scratch — frontend, backend, database, and all! 🎬
+# 💫 About Me
 
+Hi, I'm Dipak 👋
+
+I'm a Computer Applications student and aspiring Full Stack Developer who enjoys building web applications and solving practical problems with code.
+
+I've worked with technologies like JavaScript, React, Node.js, Express.js, MongoDB, Java, Spring Boot, and MySQL. I've built and completed projects including ComplyRadar, RoleSphere, and CineVerse, gaining hands-on experience with frontend development, REST APIs, authentication, databases, and deployment.
+
+At the moment, I'm focused on strengthening my backend and full-stack development skills and understanding how real-world applications are designed and built.
+
+I'm currently looking for an entry-level software development opportunity where I can contribute to a team, work on real projects, and continue learning from experienced developers.
+
+If you're interested in web development, have a project to collaborate on, or know about a suitable opportunity, feel free to connect with me. 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dipakmagadum/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakmagdum769@gmail.com) 
